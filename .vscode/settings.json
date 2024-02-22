@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "quad.h": "c",
+        "operazioni.h": "c"
+    }
+}
